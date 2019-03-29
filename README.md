@@ -1,2 +1,3 @@
 # GIT-INTRO
-Making changes #1
+Making change #1
+Making change #2
